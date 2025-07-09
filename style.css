@@ -129,7 +129,7 @@ body{
 
 .lista__link a{
   color: rgb(16, 47, 168);
-  gap: 5px;
+  margin: 0 0.5em 0, 0.5em;
   text-decoration: none;
   align-items: center;
   font-size: 15px;
