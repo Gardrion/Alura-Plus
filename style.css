@@ -129,6 +129,7 @@ body{
 
 .lista__link a{
   color: pink;
+  margin-left: 2em;
   text-decoration: none;
   align-items: center;
 }
