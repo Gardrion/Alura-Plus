@@ -138,6 +138,8 @@ body{
   display: flex;
   list-style-type: none;
   justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
 .rodape{
