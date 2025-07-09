@@ -118,7 +118,7 @@ body{
 }
 
 .lista__item{
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .rodape__texto{
@@ -129,9 +129,10 @@ body{
 
 .lista__link a{
   color: pink;
-  margin-left: 2em;
+  margin-left: 1em;
   text-decoration: none;
   align-items: center;
+  font-size: 10px;
 }
 
 .rodape__lista{
