@@ -128,11 +128,11 @@ body{
 }
 
 .lista__link a{
-  color: pink;
-  margin-left: 1em;
+  color: rgb(16, 47, 168);
+  margin-left: 1,5em;
   text-decoration: none;
   align-items: center;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .rodape__lista{
